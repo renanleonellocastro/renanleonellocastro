@@ -1,14 +1,6 @@
 ### Hello World! <img src="https://github.com/mateusalves/mateusalves/blob/main/assets/hi.gif" width="30px"></h2>
 
 <p align="center">
-  <br>
-  <samp>
-    <b>Hi! I'm Mateus Alves.</b>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
   <i><b>Let's connect and chat!</b></i>
   <br><br>
   <p align="center">
