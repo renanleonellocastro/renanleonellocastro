@@ -1,4 +1,7 @@
 ### Hello World! <img src="https://github.com/mateusalves/mateusalves/blob/main/assets/hi.gif" width="30px"></h2>
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=mateusalves" alt="mateusalves" />
+</p>
 
 <p align="center">
   <i><b>Let's connect and chat!</b></i>
@@ -15,6 +18,8 @@
   </p>
     
 </p>
+
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{mateusalves}/count.svg" alt="mateusalves :: Visitor's Count" /></p> -->
 
 <!--
 **mateusalves/mateusalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
