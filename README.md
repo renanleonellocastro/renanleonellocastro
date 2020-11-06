@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    Hii! I'm Mateus Alves. :grin:
+    <b>Hi! I'm Mateus Alves. :grin:</b>
     <br>
   </samp>
 </p>
