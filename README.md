@@ -3,16 +3,14 @@
 <p align="center">
   <br>
   <samp>
-    Hi there! I'm Mateus Alves. :grin:
+    Hii! I'm Mateus Alves. :grin:
     <br>
   </samp>
 </p>
 
 <p align="center">
-  <!-- <i><b> -->
-  Let's connect and chat! :envelope:
+  <i><b>Let's connect and chat!</b></i>
   <br><br>
-  <!-- </b></i> -->
   <p align="center">
     <a href="https://www.linkedin.com/in/mateusalvesdarocha/" alt="Linkedin"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/linkedin.svg" height="30" width="30"></a>&nbsp;
     <a href="mailto:mateus.alves.unb@gmail.com" alt="Email"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/gmail.svg" height="30" width="30"></a>&nbsp;
