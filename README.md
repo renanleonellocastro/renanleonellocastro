@@ -3,9 +3,25 @@
  <img src="https://komarev.com/ghpvc/?username=mateusalves" alt="mateusalves" />
 </p>
 
+ <div align="center">
+  <a href="https://github.com/mateusalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalves&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Mateus-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Mateus-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Mateus-embedded" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg">
+  <img align="center" alt="Mateus-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <!-- <img align="center" alt="Mateus-vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"> -->
+  <img align="center" alt="Mateus-vim" height="30" width="40" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4">
+</div>
+  
+
 <p align="center">
-  <i><b>Let's connect and chat!</b></i>
-  <br><br>
+<!--  <i><b>Let's connect and chat!</b></i>  
+  <br><br>  -->
   <p align="center">
     <a href="https://www.linkedin.com/in/mateusalvesdarocha/" alt="Linkedin"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/linkedin.svg" height="30" width="30"></a>&nbsp;
     <a href="mailto:mateus.alves.unb@gmail.com" alt="Email"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/gmail.svg" height="30" width="30"></a>&nbsp;
