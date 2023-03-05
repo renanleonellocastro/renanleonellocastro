@@ -22,14 +22,14 @@
 <!--  <i><b>Let's connect and chat!</b></i>  
   <br><br>  -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/mateusalvesdarocha/" alt="Linkedin"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/linkedin.svg" height="30" width="30"></a>&nbsp;
-    <a href="mailto:mateus.alves.unb@gmail.com" alt="Email"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/gmail.svg" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/mateusalvesdarocha/" target="_blank" alt="Linkedin"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/linkedin.svg" height="30" width="30"></a>&nbsp;
+    <a href="mailto:mateus.alves.unb@gmail.com" target="_blank" alt="Email"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/gmail.svg" height="30" width="30"></a>&nbsp;
     <!-- <a href="" alt="Discord"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/discord.png" height="30" width="30"></a>&nbsp; -->
     <!-- <a href="" alt="Medium"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/medium.png" height="30" width="30"></a>&nbsp; -->
     <!-- <a href="" alt="Youtube"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/youtube.webp" height="30" width="30"></a>&nbsp; -->
-    <a href="https://www.goodreads.com/user/show/47570418-mateus-alves" alt="GoodReads"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/goodreads.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/mateusarch_" alt="Instagram"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/instagram.svg.webp" height="30" width="30"></a>&nbsp;
-    <a href="https://www.mateusalves.com" alt="Portfolio"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/globe.svg.png" height="30" width="30"></a>
+    <a href="https://www.goodreads.com/user/show/47570418-mateus-alves" target="_blank" alt="GoodReads"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/goodreads.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.instagram.com/mateusarch_" target="_blank" alt="Instagram"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/instagram.svg.webp" height="30" width="30"></a>&nbsp;
+    <a href="https://www.mateusalves.dev target="_blank" " alt="Portfolio"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/globe.svg.png" height="30" width="30"></a>
   </p>
     
 </p>
