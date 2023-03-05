@@ -1,7 +1,7 @@
 ### Hello World! <img src="https://github.com/mateusalves/mateusalves/blob/main/assets/hi.gif" width="30px"></h2>
-<p align="left">
+<!-- <p align="left">
  <img src="https://komarev.com/ghpvc/?username=mateusalves" alt="mateusalves" />
-</p>
+</p> -->
 
  <div align="center">
   <a href="https://github.com/mateusalves">
@@ -28,8 +28,8 @@
     <!-- <a href="" alt="Medium"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/medium.png" height="30" width="30"></a>&nbsp; -->
     <!-- <a href="" alt="Youtube"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/youtube.webp" height="30" width="30"></a>&nbsp; -->
     <a href="https://www.goodreads.com/user/show/47570418-mateus-alves" alt="GoodReads"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/goodreads.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/_matt.alves/" alt="Instagram"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/instagram.svg.webp" height="30" width="30"></a>&nbsp;
-    <a href="https://mateusalves.github.io/" alt="Portfolio"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/globe.svg.png" height="30" width="30"></a>
+    <a href="https://www.instagram.com/mateusarch_" alt="Instagram"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/instagram.svg.webp" height="30" width="30"></a>&nbsp;
+    <a href="https://www.mateusalves.com" alt="Portfolio"><img src="https://github.com/mateusalves/mateusalves/blob/main/assets/globe.svg.png" height="30" width="30"></a>
   </p>
     
 </p>
